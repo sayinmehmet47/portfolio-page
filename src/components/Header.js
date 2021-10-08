@@ -1,6 +1,8 @@
 import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
+import GitHubCalendar from "react-github-calendar"
+import { Row } from "react-bootstrap"
 
 const Header = () => {
   return (
@@ -28,21 +30,28 @@ const Header = () => {
                   ? data.headerTagline[1]
                   : "products, brands"}
               </h1>
-              <h1>
-                {" "}
-                {data.headerTagline[2]
-                  ? data.headerTagline[2]
-                  : "and experience"}
-              </h1>
             </div>
           </Fade>
           <Fade bottom>
-            <p>{data.headerParagraph}</p>
+            <Row
+              style={{
+                justifyContent: "center",
+                paddingBottom: "10px",
+                width: "88vw",
+              }}
+            >
+              <GitHubCalendar
+                username="sayinmehmet47"
+                blockSize={15}
+                blockMargin={5}
+                fontSize={8}
+              />
+            </Row>{" "}
           </Fade>
           <Fade bottom>
             <a
               href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
+                data.contactEmail ? data.contactEmail : "hello@mehmetsayin.com"
               }`}
               className="primary-btn"
             >
