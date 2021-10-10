@@ -1,1 +1,1 @@
-https://mehmet-sayin.netlify.app/
+https://mehmet-sayin.vercel.app/
