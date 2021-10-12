@@ -38,6 +38,7 @@ const Header = () => {
                 justifyContent: "center",
                 paddingBottom: "10px",
                 width: "88vw",
+                marginLeft: "7px",
               }}
             >
               <GitHubCalendar
