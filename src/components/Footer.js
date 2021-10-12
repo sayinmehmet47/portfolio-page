@@ -28,7 +28,7 @@ const Footer = () => {
           </div>
           <span>
             Made With <icon>❤</icon> by{" "}
-            <a href="sayinmehmet47@gmail.com/">Mehmet Sayin</a>
+            <a href={`mailto:${data.contactEmail}`}>Mehmet Sayin</a>
           </span>
         </div>
       </div>

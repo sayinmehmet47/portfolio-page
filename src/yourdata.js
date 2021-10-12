@@ -19,6 +19,7 @@ import freecodecamp from "./images/freecodecamp.svg"
 import mongodb from "./images/mongodb.svg"
 import nodejs from "./images/nodejs.svg"
 import mehmetfoto from "./images/mehmetfoto.png"
+import book from "./images/kitap_kurdu.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -44,6 +45,15 @@ export default {
 
   // Work Section ------------------------
   projects: [
+    {
+      title: "Book Worms", //Project Title - Add Your Project Title Here
+      para: "ReactJS,ExpressJS,NodeJS,MongoDB,Yandex API", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: book,
+
+      //Project URL - Add Your Project Url Here
+      url: "https://kitap-kurdu.herokuapp.com/",
+    },
     {
       title: "Car Application", //Project Title - Add Your Project Title Here
       para:
