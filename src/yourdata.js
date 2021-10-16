@@ -187,9 +187,17 @@ export default {
     },
     {
       img: mongodb,
+      icon: freecodecamp,
+      description: "Back End Development and APIs",
+      link:
+        "https://www.freecodecamp.org/certification/fcc5a51f0ea-4f77-4951-b274-a104a1479f22/back-end-development-and-apis",
     },
     {
       img: nodejs,
+      icon: freecodecamp,
+      description: "Back End Development and APIs",
+      link:
+        "https://www.freecodecamp.org/certification/fcc5a51f0ea-4f77-4951-b274-a104a1479f22/back-end-development-and-apis",
     },
   ],
 
