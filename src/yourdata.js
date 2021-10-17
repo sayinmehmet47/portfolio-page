@@ -218,7 +218,7 @@ export default {
     { img: githubIcon, url: "https://github.com/sayinmehmet47" },
     {
       img: linkedin,
-      url: "https://www.linkedin.com/in/sayinmehmet47/",
+      url: "https://www.linkedin.com/in/sayinmehmet/",
     },
     {
       img: stackoverflow,
