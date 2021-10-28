@@ -1,9 +1,9 @@
 {
   "name": "react-portfolio-template",
   "private": true,
-  "description": "Portfolio Template For Awesome Peoples",
+  "description": "Mehmet sayin Portfolio",
   "version": "0.1.0",
-  "author": "Chetan Verma <hello@chetanverma.com>",
+  "author": "Mehmet Sayin <sayinmehmet47@gmail.com>",
   "dependencies": {
     "bootstrap": "5.1.1",
     "gatsby": "^2.26.1",
