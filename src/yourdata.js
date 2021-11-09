@@ -20,7 +20,7 @@ import mongodb from "./images/mongodb.svg"
 import nodejs from "./images/nodejs.svg"
 import mehmetfoto from "./images/mehmetfoto.png"
 import book from "./images/kitap_kurdu.png"
-
+import mainpage2 from "./images/mainpage2.png"
 // Social Icon
 import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
@@ -46,6 +46,15 @@ export default {
   // Work Section ------------------------
   projects: [
     {
+      title: "Currency Portfolio", //Project Title - Add Your Project Title Here
+      para: "ReactJS,Redux,Bootstrap", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: mainpage2,
+
+      //Project URL - Add Your Project Url Here
+      url: "https://currency-portfolio.netlify.app/",
+    },
+    {
       title: "Book Worms", //Project Title - Add Your Project Title Here
       para: "ReactJS,ExpressJS,NodeJS,MongoDB,Yandex API", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -64,19 +73,10 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://car-app1.herokuapp.com/",
     },
-    {
-      title: "Product Landing Page", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: product,
-      //Project URL - Add Your Project Url Here
-      url: "https://productlist-sayin.netlify.app/",
-    },
+
     {
       title: "Pomodoro Clock", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      para: "HTML,CSS,BootStrap,JQuery", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc: pomodoro,
       //Project URL - Add Your Project Url Here
@@ -84,22 +84,13 @@ export default {
     },
     {
       title: "General Culture Quiz", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      para: "ReactJS", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc: quiz,
       //Project URL - Add Your Project Url Here
-      url: "https://tender-raman-f983f3.netlify.app/",
+      url: "https://quiz-app47.netlify.app/",
     },
-    {
-      title: "Intuit Clone", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: intuit,
-      //Project URL - Add Your Project Url Here
-      url: "https://thirsty-pike-7951b9.netlify.app/",
-    },
+
     {
       title: "Todo Application", //Project Title - Add Your Project Title Here
       para:
@@ -109,24 +100,7 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://admiring-jang-822de5.netlify.app/",
     },
-    {
-      title: "NewyorkTimes cloned", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: newyorktimes,
-      //Project URL - Add Your Project Url Here
-      url: "https://priceless-cori-a4ff2a.netlify.app/",
-    },
-    {
-      title: "Drum Machine", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: drumMachine,
-      //Project URL - Add Your Project Url Here
-      url: "https://adoring-feynman-c1b41e.netlify.app/",
-    },
+
     /*
     If You Want To Add More Project just Copy and Paste This At The End
     ,{
