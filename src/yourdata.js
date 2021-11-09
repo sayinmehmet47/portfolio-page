@@ -65,8 +65,7 @@ export default {
     },
     {
       title: "Car Application", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+      para: "ReactJS,ExpressJS,NodeJS,MongoDB", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc: carApp,
 
