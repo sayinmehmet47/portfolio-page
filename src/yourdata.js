@@ -26,6 +26,7 @@ import githubIcon from "./images/github.svg"
 import codepenIcon from "./images/codepen.svg"
 import dribbbleIcon from "./images/dribbble.svg"
 import instagramIcon from "./images/instagram.svg"
+import netflix from "./images/netflix.png"
 
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
@@ -53,6 +54,15 @@ export default {
 
       //Project URL - Add Your Project Url Here
       url: "https://currency-portfolio.netlify.app/",
+    },
+    {
+      title: "Netflix Clone", //Project Title - Add Your Project Title Here
+      para: "NextJS,PostgreSQL,TailwindCSS,TypeScript,Prisma", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: netflix,
+
+      //Project URL - Add Your Project Url Here
+      url: "https://netflix-clone47.vercel.app/",
     },
     {
       title: "Book Worms", //Project Title - Add Your Project Title Here
