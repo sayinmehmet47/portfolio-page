@@ -1,4 +1,5 @@
 // Skills Icons
+
 import htmlIcon from "./images/html.svg"
 import cssIcon from "./images/css.svg"
 import reactIcon from "./images/react.svg"
@@ -23,11 +24,9 @@ import book from "./images/kitap_kurdu.png"
 import mainpage2 from "./images/mainpage2.png"
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
-import instagramIcon from "./images/instagram.svg"
+import bootcamp from "./images/bootcamp.jpg"
 import netflix from "./images/netflix.png"
-
+import miltek from "./images/miltek.png"
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -65,6 +64,15 @@ export default {
       url: "https://netflix-clone47.vercel.app/",
     },
     {
+      title: "E-Commerce Website", //Project Title - Add Your Project Title Here
+      para: "NextJS,MongoDB,ReactAdmin", // Add Your Service Type Here
+      //Project Image - Add Your Project Image Here
+      imageSrc: miltek,
+
+      //Project URL - Add Your Project Url Here
+      url: "https://electronic-products47.vercel.app/",
+    },
+    {
       title: "Team Management", //Project Title - Add Your Project Title Here
       para: "ReactJS,REDUX, Bootsrap 5,NodeJS,MongoDB", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -93,15 +101,16 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://kitap-kurdu.herokuapp.com/",
     },
-    {
-      title: "Car Application", //Project Title - Add Your Project Title Here
-      para: "ReactJS,ExpressJS,NodeJS,MongoDB", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: carApp,
+    // {
+    //   title: "Car Application", //Project Title - Add Your Project Title Here
+    //   para: "ReactJS,ExpressJS,NodeJS,MongoDB", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc: carApp,
 
-      //Project URL - Add Your Project Url Here
-      url: "https://car-app1.herokuapp.com/",
-    },
+    //   //Project URL - Add Your Project Url Here
+    //   url: "https://car-app1.herokuapp.com/",
+    // },
+ 
 
     {
       title: "Pomodoro Clock", //Project Title - Add Your Project Title Here
@@ -111,24 +120,24 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://hackers-timer.netlify.app/",
     },
-    {
-      title: "General Culture Quiz", //Project Title - Add Your Project Title Here
-      para: "ReactJS", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: quiz,
-      //Project URL - Add Your Project Url Here
-      url: "https://quiz-app47.netlify.app/",
-    },
+    // {
+    //   title: "General Culture Quiz", //Project Title - Add Your Project Title Here
+    //   para: "ReactJS", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc: quiz,
+    //   //Project URL - Add Your Project Url Here
+    //   url: "https://quiz-app47.netlify.app/",
+    // },
 
-    {
-      title: "Todo Application", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: todo,
-      //Project URL - Add Your Project Url Here
-      url: "https://admiring-jang-822de5.netlify.app/",
-    },
+    // {
+    //   title: "Todo Application", //Project Title - Add Your Project Title Here
+    //   para:
+    //     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+    //   //Project Image - Add Your Project Image Here
+    //   imageSrc: todo,
+    //   //Project URL - Add Your Project Url Here
+    //   url: "https://admiring-jang-822de5.netlify.app/",
+    // },
 
     /*
     If You Want To Add More Project just Copy and Paste This At The End
@@ -145,9 +154,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm Mehmet. As a Frontend Developer, I`m very passionate and talented about ReactJS, NodeJS, and MongoDB. I devoted myself to learn, implement, adapt and create through my life to build smart web apps to help people and improve life quality around the world. ",
+    "I'm Mehmet. As a Frontend Developer, I`m very passionate and talented about ReactJS, NodeJS, MongoDB, NextJS. I devoted myself to learn, implement, adapt and create through my life to build smart web apps to help people and improve life quality around the world. ",
   aboutParaTwo:
-    "As a Junior Web Developer with 9 months of experience able to build web applications from the ground up - information gathering, planning, design, development, testing and delivery, and maintenance.",
+    "As a Junior Web Developer with 12 months of experience able to build web applications from the ground up - information gathering, planning, design, development, testing and delivery, and maintenance.",
   aboutImage: mehmetfoto,
 
   //   End About Section ---------------------
@@ -199,6 +208,14 @@ export default {
       img: nodejs,
       icon: freecodecamp,
       description: "Back End Development and APIs",
+      link:
+        "https://www.freecodecamp.org/certification/fcc5a51f0ea-4f77-4951-b274-a104a1479f22/back-end-development-and-apis",
+    },
+    {
+      img:
+        "https://socialhackersacademy.org/wp-content/uploads/2020/10/imageedit_1_2264186354.png",
+      icon: bootcamp,
+      description: "Social Hackers Academy Frontend Bootcamp",
       link:
         "https://www.freecodecamp.org/certification/fcc5a51f0ea-4f77-4951-b274-a104a1479f22/back-end-development-and-apis",
     },
