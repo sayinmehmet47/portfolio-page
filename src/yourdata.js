@@ -110,7 +110,6 @@ export default {
     //   //Project URL - Add Your Project Url Here
     //   url: "https://car-app1.herokuapp.com/",
     // },
- 
 
     {
       title: "Pomodoro Clock", //Project Title - Add Your Project Title Here
@@ -154,9 +153,9 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "I'm Mehmet. As a Frontend Developer, I`m very passionate and talented about ReactJS, NodeJS, MongoDB, NextJS. I devoted myself to learn, implement, adapt and create through my life to build smart web apps to help people and improve life quality around the world. ",
+    "I'm Mehmet. As a Frontend Developer, I`m very passionate and talented about ReactJS, NodeJS, MongoDB, NextJS, Docker. I devoted myself to learn, implement, adapt and create through my life to build smart web apps to help people and improve life quality around the world. ",
   aboutParaTwo:
-    "As a Junior Web Developer with 12 months of experience able to build web applications from the ground up - information gathering, planning, design, development, testing and delivery, and maintenance.",
+    "As a Junior Web Developer with 16 months of experience able to build web applications from the ground up - information gathering, planning, design, development, testing and delivery, and maintenance.",
   aboutImage: mehmetfoto,
 
   //   End About Section ---------------------
