@@ -46,6 +46,12 @@ export default {
   // Work Section ------------------------
   projects: [
     {
+      title:"",
+      pare:"",
+      imageSrc:""
+      url:
+    },
+    {
       title: "Currency Portfolio", //Project Title - Add Your Project Title Here
       para: "ReactJS,Redux,Bootstrap", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
