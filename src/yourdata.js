@@ -62,53 +62,7 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://currency-portfolio.netlify.app/",
     },
-    {
-      title: "Netflix Clone", //Project Title - Add Your Project Title Here
-      para: "NextJS,PostgreSQL,TailwindCSS,TypeScript,Prisma", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: netflix,
 
-      //Project URL - Add Your Project Url Here
-      url: "https://netflix-clone47.vercel.app/",
-    },
-    {
-      title: "E-Commerce Website", //Project Title - Add Your Project Title Here
-      para: "NextJS,MongoDB,ReactAdmin", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: miltek,
-
-      //Project URL - Add Your Project Url Here
-      url: "https://electronic-products47.vercel.app/",
-    },
-    {
-      title: "Team Management", //Project Title - Add Your Project Title Here
-      para: "ReactJS,REDUX, Bootsrap 5,NodeJS,MongoDB", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://user-images.githubusercontent.com/75525090/150767747-69d20966-b951-4be1-9eb1-e56c1c25903b.png",
-
-      //Project URL - Add Your Project Url Here
-      url: "https://team-management12.herokuapp.com/",
-    },
-    {
-      title: "Table-Axios-Pagination", //Project Title - Add Your Project Title Here
-      para: "ReactJS,Axios,ReactTable", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://user-images.githubusercontent.com/75525090/150768477-37f6c1b5-f206-4229-9f3c-a7391c6fb01c.png",
-
-      //Project URL - Add Your Project Url Here
-      url: "https://table-with-axios-and-pagination.netlify.app/",
-    },
-    {
-      title: "Book Worms", //Project Title - Add Your Project Title Here
-      para: "ReactJS,ExpressJS,NodeJS,MongoDB,Yandex API", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc: book,
-
-      //Project URL - Add Your Project Url Here
-      url: "https://kitap-kurdu.herokuapp.com/",
-    },
     // {
     //   title: "Car Application", //Project Title - Add Your Project Title Here
     //   para: "ReactJS,ExpressJS,NodeJS,MongoDB", // Add Your Service Type Here
