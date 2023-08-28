@@ -46,10 +46,10 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title:"",
-      pare:"",
-      imageSrc:""
-      url:
+      title:"Book Search App",
+      para:"React,Express, Kubernetes, CI-CD, Github Actions, Integration Test, Graphana, Prometeus, ",
+      imageSrc:"",
+      url: "https://kitap-kurdu-bx87.vercel.app/"
     },
     {
       title: "Currency Portfolio", //Project Title - Add Your Project Title Here
