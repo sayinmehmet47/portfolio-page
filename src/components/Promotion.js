@@ -13,8 +13,8 @@ const Promotion = () => {
               <h2>Steiner AG -Junior FullStack Developer</h2>
               <p>
                 <strong>10/2022 – 11/2023</strong> I wrote reusable, efficient
-                components with Tailwind,Nextjs,Storybook. I used rtk query data
-                as a fetching and caching tool. I wrote services using Nestjs. I
+                components with Tailwind,Nextjs,Storybook. I used rtk query as a
+                fetching and caching tool. I wrote services using Nestjs. I
                 wrote e2e tests using playwright
               </p>
               <h2>Roambee -Junior FullStack Developer</h2>

@@ -21,6 +21,7 @@ import mongodb from "./images/mongodb.svg"
 import nodejs from "./images/nodejs.svg"
 import mehmetfoto from "./images/mehmetfoto.png"
 import book from "./images/kitap_kurdu.png"
+import kitapkurdu from "./images/kitapkurdu.png"
 import mainpage2 from "./images/mainpage2.png"
 // Social Icon
 import githubIcon from "./images/github.svg"
