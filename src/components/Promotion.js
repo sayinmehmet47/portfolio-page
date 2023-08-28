@@ -10,6 +10,13 @@ const Promotion = () => {
           <Fade bottom cascade>
             <h1>{data.promotionHeading}</h1>
             <div>
+              <h2>Steiner AG -Junior FullStack Developer</h2>
+              <p>
+                <strong>10/2022 – 11/2023</strong> I wrote reusable, efficient
+                components with Tailwind,Nextjs,Storybook. I used rtk query data
+                as a fetching and caching tool. I wrote services using Nestjs. I
+                wrote e2e tests using playwright
+              </p>
               <h2>Roambee -Junior FullStack Developer</h2>
               <p>
                 <strong>05/2022 – 08/2021</strong> I wrote reusable, efficient
