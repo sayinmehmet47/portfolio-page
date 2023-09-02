@@ -35,8 +35,8 @@
   "keywords": [
     "gatsby"
   ],
-   "engines": {
-    "node": ">=16.0.0"
+  "engines": {
+    "node": "16.x"
   },
   "license": "0BSD",
   "scripts": {
