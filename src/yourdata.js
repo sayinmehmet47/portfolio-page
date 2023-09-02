@@ -62,22 +62,14 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://currency-portfolio.netlify.app/",
     },
-
-    
       {
       title: "Team Management App", 
-      para: "ReactJS
- ,REDUX
- ,Bootsrap 5
- ,NodeJS
- ,MongoDB
- ,Socketio",
+      para: "ReactJS,REDUX,Bootsrap 5,NodeJS,MongoDB,Socketio",
       //Project Image - Add Your Project Image Here,
       imageSrc: "https://github.com/prisma/prisma/assets/75525090/2bf7807f-399b-410a-8166-cdfaa26d0b76",
       //Project URL - Add Your Project Url Here,
       url: "https://team-management.onrender.com/",
      },
-
       {
       title: "Netflix Clone Project", 
       para: "NextJS,Prisma,Tailwind CSS,NextAuth,TypeScript",
