@@ -63,6 +63,15 @@ export default {
       url: "https://currency-portfolio.netlify.app/",
     },
 
+      {
+      title: "Netflix Clone Project", 
+      para: "NextJS,Prisma,Tailwind CSS,NextAuth,TypeScript",
+      //Project Image - Add Your Project Image Here,
+      imageSrc: "https://github.com/sayinmehmet47/kitapKurdu/assets/75525090/fdabc9d8-caf5-4e9e-9da3-5ea533053f6a",
+      //Project URL - Add Your Project Url Here,
+      url: "https://netflix-clone47.vercel.app/browse",
+     },
+
     // {
     //   title: "Car Application", //Project Title - Add Your Project Title Here
     //   para: "ReactJS,ExpressJS,NodeJS,MongoDB", // Add Your Service Type Here
@@ -81,14 +90,7 @@ export default {
       //Project URL - Add Your Project Url Here
       url: "https://hackers-timer.netlify.app/",
     },
-    // {
-    //   title: "General Culture Quiz", //Project Title - Add Your Project Title Here
-    //   para: "ReactJS", // Add Your Service Type Here
-    //   //Project Image - Add Your Project Image Here
-    //   imageSrc: quiz,
-    //   //Project URL - Add Your Project Url Here
-    //   url: "https://quiz-app47.netlify.app/",
-    // },
+   
 
     // {
     //   title: "Todo Application", //Project Title - Add Your Project Title Here
