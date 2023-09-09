@@ -76,7 +76,7 @@ export default {
       //Project Image - Add Your Project Image Here,
       imageSrc: "https://github.com/sayinmehmet47/kitapKurdu/assets/75525090/fdabc9d8-caf5-4e9e-9da3-5ea533053f6a",
       //Project URL - Add Your Project Url Here,
-      url: "https://netflix-clone47.vercel.app/browse",
+      url: "https://netflix-clone42.vercel.app/browse",
      },
 
     // {
